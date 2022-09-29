@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54a9d5b6-030f-4ce3-9583-a13e7399928f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leed 2 Add Two Numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="54a9d5b6-030f-4ce3-9583-a13e7399928f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +31,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RunManager">
@@ -66,7 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1664439719299</updated>
     </task>
+    <task id="LOCAL-00001" summary="You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.&#10;&#10;You may assume the two numbers do not contain any leading zero, except the number 0 itself.&#10;&#10; &#10;Example 1:&#10;Input: l1 = [2,4,3], l2 = [5,6,4]&#10;Output: [7,0,8]&#10;Explanation: 342 + 465 = 807.">
+      <created>1664447196499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664447196499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.&#10;&#10;You may assume the two numbers do not contain any leading zero, except the number 0 itself.&#10;&#10; &#10;Example 1:&#10;Input: l1 = [2,4,3], l2 = [5,6,4]&#10;Output: [7,0,8]&#10;Explanation: 342 + 465 = 807." />
+    <option name="LAST_COMMIT_MESSAGE" value="You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.&#10;&#10;You may assume the two numbers do not contain any leading zero, except the number 0 itself.&#10;&#10; &#10;Example 1:&#10;Input: l1 = [2,4,3], l2 = [5,6,4]&#10;Output: [7,0,8]&#10;Explanation: 342 + 465 = 807." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
